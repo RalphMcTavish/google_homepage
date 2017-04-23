@@ -1,3 +1,9 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
 .page_header
 {
 
@@ -5,7 +11,11 @@
 
 #google_banner
 {
-
+  display: block;
+  width:70%;
+  margin: 0 auto;
+  /*display:flex;
+  justify-content: center;*/
 }
 
 .search_bar
