@@ -4,27 +4,49 @@
     padding:0;
 }
 
-.page_header
+#left_header
 {
+  float: left;
+}
 
+#right_header
+{
+  float: right;
+}
+
+#left_link
+{
+  margin-left: 10px;
+}
+
+#right_link
+{
+  margin-right: 10px;
 }
 
 #google_banner
 {
   display: block;
   width:70%;
-  margin: 0 auto;
+  margin: 40px auto;
   /*display:flex;
   justify-content: center;*/
 }
 
-.search_bar
+#input_box
 {
-
+  display: block;
+  margin:  20px auto;
 }
 
-.buttons
+#buttons
 {
+  text-align: center;
+}
+
+button
+{
+  display: inline-block;
 
 }
 
