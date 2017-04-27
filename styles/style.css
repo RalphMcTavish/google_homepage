@@ -14,16 +14,6 @@
   float: right;
 }
 
-#left_link
-{
-  margin-left: 10px;
-}
-
-#right_link
-{
-  margin-right: 10px;
-}
-
 #google_banner
 {
   display: block;
@@ -50,7 +40,8 @@ button
 
 }
 
-.page_footer
+footer
 {
-
+  margin-top: 30px;
+  text-align: center;
 }
